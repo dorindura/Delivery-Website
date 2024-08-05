@@ -10,6 +10,11 @@
   margin-top: 100px;
 }
 
+.footer-header {
+  color: #7cb9e8;
+  font-size: 2.5em;
+}
+
 .footer-content {
   width: 100%;
   display: grid;
